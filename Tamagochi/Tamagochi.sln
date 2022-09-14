@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TamagochiConsoleApp", "TamagochiConsoleApp\TamagochiConsoleApp.csproj", "{D2636138-C3C5-43F9-A0AD-AE7CB87ADC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamagochiPokemonClient", "TamagochiPokemonClient\TamagochiPokemonClient.csproj", "{DACA14F2-98CA-4DD9-B5B9-084604CF73DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2636138-C3C5-43F9-A0AD-AE7CB87ADC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2636138-C3C5-43F9-A0AD-AE7CB87ADC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2636138-C3C5-43F9-A0AD-AE7CB87ADC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2636138-C3C5-43F9-A0AD-AE7CB87ADC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACA14F2-98CA-4DD9-B5B9-084604CF73DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACA14F2-98CA-4DD9-B5B9-084604CF73DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACA14F2-98CA-4DD9-B5B9-084604CF73DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACA14F2-98CA-4DD9-B5B9-084604CF73DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F82F753-FE8B-4CA9-A309-3C1D7073038E}
+	EndGlobalSection
+EndGlobal
